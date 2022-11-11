@@ -1,0 +1,147 @@
+ body {
+     padding: 0;
+     margin: 0;
+     box-sizing: border-box;
+     background-color: blue;
+     position: relative;
+ }
+ 
+ .main-box {
+ 	 background-color: white;
+     border-radius: 45px;
+     position: absolute;
+     top: 0;
+     left: 20%;
+     right: 20%;
+     margin: 20px 0;
+
+
+ }
+
+ .section-1 {
+ 	background-color: rgba(0,0,55,1);
+ 	border-radius: 45px; 
+
+ }
+
+ .header-icon {
+     color: white;
+     font-size: 12px;
+     position: relative;
+ }
+ 
+ .icon {
+     font-size: 60px;
+ }
+
+.icon-group {
+	position: absolute;
+	top: 25px;
+	right: 30px;
+
+}
+
+ .icon-1 {
+ 	position: absolute;
+	top: 25px;
+	left: 20px;
+ }
+
+ .logo-text {
+ 	position: relative;
+ 	padding-top: 20px;
+ 	margin-bottom: 80px;
+ }
+
+ .logo {
+    width: 20%;
+    display: block;
+    margin-left: 40%;
+    margin-top: 20%;
+    /*
+    top: 30px;
+ 	left: 350px;
+ 	
+    */
+
+ }
+
+ .h2 {
+ 	text-align: center;
+ 	font-size: 30px;
+     color: white;
+     margin-top: -50px;
+     margin-left: 40px;
+
+    /*top: 50px;
+    left: 359px;*/
+ }
+
+ .form {
+ 	text-align: center;
+ }
+
+ .form-1 {
+ 	border: 1px solid white;
+ 	border-radius: 25px;
+ 	padding: 3px 0px 3px 5px;
+ }
+
+  .form-2 {
+  	border: 1px solid white;
+ 	border-radius: 25px;
+ 	margin-top: 20px;
+ 	padding: 3px 0px 3px 5px;
+
+ }
+
+ .form-text {
+ 	font-size: 10px;
+	color: white;
+	margin-top: 1px;
+    margin-left: 100px;
+}
+
+ .button {
+ 	border: 2px solid yellow;
+ 	border-radius: 25px;
+ 	padding: 3px 20px;
+ 	color: white;
+ 	background-color: rgba(0,0,55,1);
+ 	margin-top: 25px;
+    margin-bottom: 70px;
+ 	box-shadow: 0 2px 2px;
+ }
+
+ .social-media {
+    margin-top: 20px;
+     margin-left: 10%;
+     display: flex;
+     
+
+
+     
+   
+ }
+
+ .social {
+        width: 5%;
+       height: 5%;
+       padding: 23px;
+       display: inline-block;
+       margin-bottom: 50px;
+ }
+
+.footer-text {
+    font-size: 12px;
+    text-align: center;
+    clear: left;
+}
+
+.line {
+    width: 100px;
+    font-weight: 500;
+    background-color: red;
+    margin-top: -20px;
+    border: 1px solid black;
+}
